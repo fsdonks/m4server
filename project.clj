@@ -21,5 +21,5 @@
   {:uberjar {;:aot  [marathon.main]
              :aot [m4server.main];~aot-order
              :main  m4server.main
-             }}s
+             }}
  #_#_ :plugins [[nightlight/lein-nightlight "2.4.4"]])
